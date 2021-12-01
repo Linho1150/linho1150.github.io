@@ -2,8 +2,6 @@
   Switch the mode between dark and light.
 -->
 
-<i class="mode-toggle fas fa-adjust"></i>
-
 <script type="text/javascript">
 
   class ModeToggle {
@@ -134,18 +132,6 @@
 
   } /* ModeToggle */
 
-  let toggle = new ModeToggle();
-
-  $(".mode-toggle").click(function() {
-
-    toggle.flipMode();
-
-  });
-
-  $("#mode-toggle-wrapper").keyup(function(e){
-    if(e.keyCode == 13) {
-      toggle.flipMode();
-    }
-  });
+  const toggle = new ModeToggle();
 
 </script>
