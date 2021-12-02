@@ -34,17 +34,17 @@ url: 'https://linho1150.github.io'
 github:
   username: linho1150             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+# twitter:
+#  username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: LeeJaeJun
+  email: linho301150@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    # - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/linho1150       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://raw.githubusercontent.com/Linho1150/linho1150.github.io/master/assets/img/profile.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
