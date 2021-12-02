@@ -3,7 +3,7 @@ title: "K-smile, Promiso Team Conversation with foreigners"
 date: 2017-11-04
 author: LeeJaeJun
 categories: [Production,K-Smile]
-tags: [Production,K-Smile,Promiso,Shoot,Edit,Video edit,Youtube]
+tags: [Production,K-Smile,Promiso,Shoot,Video edit,Youtube]
 math: true
 mermaid: true
 ---
