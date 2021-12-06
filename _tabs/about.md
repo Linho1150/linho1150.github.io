@@ -17,14 +17,16 @@ order: 4
 |         warmWhite.github.io         |             |            |          |
 
 #### Project Competition
+
 |Title|Part|Team|Term|Describe|
-|:---:|:---:|:---:|:---:|-----|
+|:---:|:---:|:---:|:---:|:-----:|
 |Uipath SEOUL 2019|Dev Team|Dry Eye|오른쪽정렬|중앙정렬|
 |           CoalaUniv Hackathon            |  Dev Team   |    Urban Campus     |            |          |
 |LikeLion Hackathon|Dev Team|Walwalcrew|오른쪽정렬|중앙정렬|
 |Action Learning Data Driven with ablearn|Team leader|Data & Life Balance|||
 
 #### Programming
+
 |Title|Part|Term|Describe|
 |:---:|:---:|:---:|:---:|
 |CoalaUniv|1|오른쪽정렬|중앙정렬|
@@ -32,6 +34,7 @@ order: 4
 |왼쪽정렬|3|오른쪽정렬|중앙정렬|
 
 #### Producing
+
 |Title|Part|Term|Describe|Host|
 |:---:|:---:|:---:|:---:|:---:|
 |Melon reporter|Reporter|||KaKao M|
@@ -41,6 +44,7 @@ order: 4
 |HAPPYMOVE STAFF The Happiest|Creative Team|||Hyundai Group|
 
 #### Volunteering
+
 |Title|Part|Term|Describe|Host|
 |:---:|:---:|:---:|:---:|:---:|
 | HAPPY MOVE |Team leader||중앙정렬|Hyundai Group|
