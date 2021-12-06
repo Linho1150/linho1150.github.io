@@ -12,7 +12,7 @@ order: 4
 
 |                Title                |    Part     | Term       | Describe |
 | :---------------------------------: | :---------: | ---------- | :------: |
-|             Kruniv.com              | Development | 오른쪽정렬 | 중앙정렬 |
+|             Kruniv.com              | Development | 오른쪽정렬 | <a href src="www.naver.com"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=Github&logoColor=white"/></a> |
 | Automatic Class materials Collecter | Development |            |          |
 |         warmWhite.github.io         |             |            |          |
 
