@@ -34,13 +34,13 @@ order: 4
 
 #### Producing
 
-|Title|Part|Host|Describe|Github Pages|
-|:---:|:---:|:---:|:---:|:---:|
-|Melon reporter|Reporter|KaKao M||<a href="https://linho1150.github.io/categories/melon-reporter/"><img src="https://img.shields.io/badge/GitHub-Pages-181717?style=plastic&logo=Github&logoColor=white"/></a>|
-| Myongji University International Exchange Team Oulami | Creative Team |  MyongJi University   |  |<a href="https://linho1150.github.io/categories/oulami/"><img src="https://img.shields.io/badge/GitHub-Pages-181717?style=plastic&logo=Github&logoColor=white"/></a>|
-|                   K-Smile Campaign                    | Creator | Visit Korea Committee |          |<a href="https://linho1150.github.io/categories/k-smile/"><img src="https://img.shields.io/badge/GitHub-Pages-181717?style=plastic&logo=Github&logoColor=white"/></a>|
-|Myongji University Public Relations Team|  Team leader  | MyongJi University ||<a href="https://linho1150.github.io/categories/mjupr/"><img src="https://img.shields.io/badge/GitHub-Pages-181717?style=plastic&logo=Github&logoColor=white"/></a>|
-|HAPPYMOVE STAFF The Happiest|Creative Team| Hyundai Group ||<a href="https://linho1150.github.io/categories/the-happiest/"><img src="https://img.shields.io/badge/GitHub-Pages-181717?style=plastic&logo=Github&logoColor=white"/></a>|
+|Title|Part|Host|Github Pages|
+|:---:|:---:|:---:|:---:|
+|Melon reporter|Reporter|KaKao M|<a href="https://linho1150.github.io/categories/melon-reporter/"><img src="https://img.shields.io/badge/GitHub-Pages-181717?style=plastic&logo=Github&logoColor=white"/></a>|
+| Myongji University International Exchange Team Oulami | Creative Team |  MyongJi University   | <a href="https://linho1150.github.io/categories/oulami/"><img src="https://img.shields.io/badge/GitHub-Pages-181717?style=plastic&logo=Github&logoColor=white"/></a> |
+|                   K-Smile Campaign                    | Creator | Visit Korea Committee | <a href="https://linho1150.github.io/categories/k-smile/"><img src="https://img.shields.io/badge/GitHub-Pages-181717?style=plastic&logo=Github&logoColor=white"/></a> |
+|Myongji University Public Relations Team|  Team leader  | MyongJi University | <a href="https://linho1150.github.io/categories/mjupr/"><img src="https://img.shields.io/badge/GitHub-Pages-181717?style=plastic&logo=Github&logoColor=white"/></a> |
+|HAPPYMOVE STAFF The Happiest|Creative Team| Hyundai Group | <a href="https://linho1150.github.io/categories/the-happiest/"><img src="https://img.shields.io/badge/GitHub-Pages-181717?style=plastic&logo=Github&logoColor=white"/></a>|
 
 #### Volunteering
 
