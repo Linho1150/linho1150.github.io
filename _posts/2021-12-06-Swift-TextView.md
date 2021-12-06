@@ -67,5 +67,3 @@ struct ContentView_Previews: PreviewProvider {
     - .uppercased() : 전체 대문자
     - .lowercased() : 전체 소문자
     - .capitalized() : 도시명, 이름 등 특정 알파벳만 대문자
-
-base on : https://youtu.be/RKfkG01x79w
