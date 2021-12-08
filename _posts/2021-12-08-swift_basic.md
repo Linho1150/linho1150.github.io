@@ -1,5 +1,5 @@
 ---
-title: "Swift, Basic swift (Print, Variable)"
+title: "Swift, Basic swift (Simple Variable)"
 date: 2021-12-08
 author: LeeJaeJun
 categories: [Programming,Swift]
@@ -15,7 +15,7 @@ mermaid: true
 print("Hello, World")
 ```
 
-## 간단한 변수 선언
+## 변수 선언
 
 ```swift
 var myVariable = 42
@@ -71,7 +71,7 @@ print(id)
 
 최종적으로 String 형태가 나오길 바랬으나 연산을 먼저 하기에 결과값의 오류가 났다.
 
-### String 문자열 중간에 변수값 출력하기
+## String 문자열 중간에 변수값 출력하기
 
 ```swift
 let name:String = "Jaejun"
@@ -82,4 +82,70 @@ print(Welcome)
 
 \(변수)을 활용하면 String 사이에 변수 값을 출력할 수 있다.
 
-base on : Apple BookStore - The Swift Programming Language(Swift 5.5) page4
+## Print multiple lines
+
+```swift
+let apple:String="Apple"
+let banana:String="Banana"
+let quotation:String = """
+I said "I have\(apple)"
+And then I said "I have \(apple+banana) pieces of fruit"
+"""
+```
+
+""" 사이에 글을 쓰면 Multiple line 구현이 가능하다. 단, 첫줄에 """줄바꿈 그리고 마지막줄에 줄바꿈"""을 해줘야 중간에 multiple line이 가능하다. 예를들어, """Hello "I said""""와 같이 사용하는건 불가능하다.
+
+## Define Array & Dictionary
+
+```swift
+//Array
+var shoppingList:Array=["a","b","c"]
+shoppingList[0]="z"
+print(shoppingList)
+//["z", "b", "c"]
+
+//Dictionary
+var playingList:Dictionary=[
+    "soccer":"fun",
+    "baseball":"nice",
+    "coding":"hmmm,,,"
+]
+playingList["coding"]="very fun"
+print(playingList)
+//["baseball": "nice", "coding": "very fun", "soccer": "fun"]
+```
+
+Python과 비슷한 느낌으로 List 와 Dictionary 형태의 Variable을 선언할 수 있다. 둘다 브라켓( [] ) 기호를 통해 선언되며 Index 느낌으로 선언되면 Array 타입, Key 와 Value 를 섞어놓은 형식이면 Dictionary 타입으로 선언된다. 선언에 사용되는 기호가 다르다는 점만 고려하면 Python의 문법과 흡사하다.
+
+### Array 항목 추가
+
+```swift
+var addList:Array=["안"]
+addList.append("녕")
+print(addList)//["안", "녕"]
+```
+
+Python의 리스트와 동일하게 append(새로운값)을 사용하면 새로운 항목을 가장 마지막에 추가할 수 있다.
+
+## Array & Dictionary 초기화
+
+```swift
+var EmptyArray:[String] = []
+var EmptyDictionary:[String:Int]=[:]
+//비어있는 Array 와 dictionary 선언
+
+var EmptyArrayNoType = ["Sample1","Sample2","Sampel3"]
+var EmptyDictionaryNoType = [
+    "Sample1":"me1",
+    "Sample2":"me2"
+]
+EmptyArrayNoType = [] //Array 값 초기화
+EmptyDictionaryNoType=[:] //Dictionary 값 초기화
+print(EmptyArrayNoType) //[]
+print(EmptyDictionaryNoType) //[:]
+```
+
+- :[타입]을 정하면 비어있는 Array 와 Dictionary를 선언할 수 있다.  Array와 Dictionary를 구분하는 차이점은 [ ] 기호 내부에 : 표시가 있는지 없는지 이다.
+- [ ] 와 [ : ]를 사용하면 값을 초기화할 수 있다.
+
+base on : Apple BookStore - The Swift Programming Language(Swift 5.5) part [ A Swift Tour - Simple Values ]
