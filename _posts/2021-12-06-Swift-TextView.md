@@ -68,4 +68,8 @@ struct ContentView_Previews: PreviewProvider {
     - .lowercased() : 전체 소문자
     - .capitalized() : 도시명, 이름 등 특정 알파벳만 대문자
 
+- ClickEvent
+    - .onTapGesture{code}
+    - 해당 코드를 사용하면 TextView를 클릭했을떄 이벤트를 발생시킴
+
 base on : https://youtu.be/RKfkG01x79w
