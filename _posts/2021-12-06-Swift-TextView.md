@@ -68,4 +68,26 @@ struct ContentView_Previews: PreviewProvider {
     - .lowercased() : 전체 소문자
     - .capitalized() : 도시명, 이름 등 특정 알파벳만 대문자
 
+- ClickEvent
+    - .onTapGesture{code}
+    - 해당 코드를 사용하면 TextView를 클릭했을떄 이벤트를 발생시킴
+
+- padding Background Color
+
+    ```swift
+    Text("Hello World")
+        .padding()
+        .background(Color.red)
+    ```
+    
+    ```swift
+    Text("Hello World")
+        .background(Color.red)
+        .padding()
+    ```
+    
+    - 위 두개의 코드는 다른코드이다. 첫번째 코드는 padding이 적용된 상태로 뒷 배경 색상이 적용되는것이고, 두번째 코드는 패딩이 적용 되기 전 크기에서 색상이 적용된 후에 패딩이 적용되게 된다. 따라서 패딩이 적용된 부분이 배경색으로 보인다.
+    
+    
+
 base on : https://youtu.be/RKfkG01x79w
